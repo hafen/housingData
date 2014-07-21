@@ -1,0 +1,11 @@
+Package: housing
+Type: Package
+Title: 
+Version: 0.1
+Author: Ryan Hafen <rhafen@gmail.com>
+Maintainer: Ryan Hafen <rhafen@gmail.com>
+License: BSD3
+Description: A data only package containing
+Depends:
+    R (>= 2.15)
+LazyData: true
