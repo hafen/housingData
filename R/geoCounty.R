@@ -1,6 +1,6 @@
 #' County geolocation lookup table
 #' 
-#' Table of geographical coordinates of centroids of U.S. counties.  Compuated based on a procedure described here: \url{http://stackoverflow.com/questions/9441778/improve-centering-county-names-ggplot-maps}.
+#' Table of geographical coordinates of centroids of U.S. counties.  Computed based on a procedure described here: \url{http://stackoverflow.com/questions/9441778/improve-centering-county-names-ggplot-maps}.
 #' 
 #' @section Variables:
 #' 

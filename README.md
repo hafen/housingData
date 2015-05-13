@@ -6,5 +6,5 @@ Install:
 
 ```s
 library(devtools)
-install_github("housingData", "hafen")
+install_github("hafen/housingData")
 ```
