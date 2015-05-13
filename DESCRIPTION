@@ -1,11 +1,12 @@
 Package: housingData
 Type: Package
-Title: 
-Version: 0.1
+Title: U.S. Housing Data from 2008 to 2014 
+Version: 0.2
+Date: 2015-5-13
 Author: Ryan Hafen <rhafen@gmail.com>
 Maintainer: Ryan Hafen <rhafen@gmail.com>
 License: BSD3
-Description: A data only package containing
+Description: A data-only package of various housing and geolocation datasets
 Depends:
     R (>= 2.15)
 LazyData: true
