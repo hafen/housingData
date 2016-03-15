@@ -4,7 +4,6 @@ This R package contains data for monthly median home listing and sold prices by 
 
 Install:
 
-```s
-library(devtools)
-install_github("hafen/housingData")
+```r
+devtools::install_github("hafen/housingData")
 ```

@@ -1,12 +1,15 @@
 Package: housingData
 Type: Package
-Title: U.S. Housing Data from 2008 to 2014 
-Version: 0.2
-Date: 2015-5-13
+Title: U.S. Housing Data from 2008 to 2016
+Version: 0.3.0
+Date: 2016-03-14
 Author: Ryan Hafen <rhafen@gmail.com>
 Maintainer: Ryan Hafen <rhafen@gmail.com>
-License: BSD3
-Description: A data-only package of various housing and geolocation datasets
+License: CC0
+Description: Monthly median home listing, sale price per square foot, and number of units sold for 2984 counties in the contiguous United States From 2008 to January 2016.  Additional data sets containing geographical information and links to Wikipedia are also included.
 Depends:
     R (>= 2.15)
 LazyData: true
+URL: http://github.com/hafen/housingData
+BugReports: https://github.com/hafen/housingData/issues
+RoxygenNote: 5.0.1

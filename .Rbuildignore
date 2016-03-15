@@ -1,0 +1,15 @@
+\.git
+^\.travis\.yml$
+\.DS_Store
+..Rcheck
+CONTRIBUTING\.md
+LICENSE\.md
+package.json
+protobuf-2\.4\.1/
+protobuf-2\.4\.1\.tar\.gz
+protobuf_install/
+^_ignore$
+\.sublime\-
+rhipe-java.log
+cran-comments.md
+man-roxygen
